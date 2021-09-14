@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="334" height="139" viewBox="0 0 334 139">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="334" height="139" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g transform="translate(-301 -2163)">
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing 
+elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, sed diam" transform="translate(301 2163)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="15.302" y="13">Lorem ipsum dolor sit amet, consetetur sadipscing </tspan><tspan x="18.08" y="43">elitr, sed diam nonumy eirmod tempor invidunt ut </tspan><tspan x="20.558" y="73">labore et dolore magna aliquyam erat, sed diam</tspan></text>
+    </g>
+  </g>
+</svg>

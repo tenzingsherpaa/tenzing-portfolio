@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="442" height="650" viewBox="0 0 442 650">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="334" height="139" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-262 -1813)">
+    <g id="Group_4" data-name="Group 4" transform="translate(22)">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="442" height="650" rx="65" transform="translate(240 1813)" fill="#fff"/>
+    </g>
+    <path id="arrow-back-fill" d="M75.1,35.145H20.466L37.188,15.059a4.613,4.613,0,0,0-7.095-5.9L7.06,36.8a5.483,5.483,0,0,0-.415.691.584.584,0,0,1-.322.6,4.426,4.426,0,0,0,0,3.317.584.584,0,0,0,.322.6,5.482,5.482,0,0,0,.415.691L30.094,70.342a4.613,4.613,0,1,0,7.095-5.9L20.466,44.359H75.1a4.607,4.607,0,1,0,0-9.214Z" transform="translate(418 1955.002)" fill="#6e19ff"/>
+    <text id="Software_engineering" data-name="Software engineering" transform="translate(328 2104)" font-size="26" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Software engineering</tspan></text>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(301 2163)" clip-path="url(#clip-path)">
+      <g transform="translate(-301 -2163)">
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing 
+elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, sed diam" transform="translate(301 2163)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="15.302" y="13">Lorem ipsum dolor sit amet, consetetur sadipscing </tspan><tspan x="18.08" y="43">elitr, sed diam nonumy eirmod tempor invidunt ut </tspan><tspan x="20.558" y="73">labore et dolore magna aliquyam erat, sed diam</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

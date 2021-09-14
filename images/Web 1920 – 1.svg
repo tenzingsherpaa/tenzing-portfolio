@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="5105" viewBox="0 0 1920 5105">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="334" height="139" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="5105"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="5105" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M0,0H1140V137H0Z" fill="#6700ee"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="1140" height="712" transform="translate(0 135)" fill="#6e00ff"/>
+    <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(240 51)">
+      <text id="Tenzing_Sherpa" data-name="Tenzing Sherpa" transform="translate(0 27)" fill="#64e0ff" font-size="26" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Tenzing Sherpa</tspan></text>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(-156)">
+      <g id="Component_1_2" data-name="Component 1 – 2" transform="translate(695 57)">
+        <text id="My_work" data-name="My work" transform="translate(0 21)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">My work</tspan></text>
+      </g>
+      <g id="Component_1_3" data-name="Component 1 – 3" transform="translate(836 57)">
+        <text id="My_Skills_" data-name="My Skills " transform="translate(0 21)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">My Skills </tspan></text>
+      </g>
+      <g id="Component_1_4" data-name="Component 1 – 4" transform="translate(982 57)">
+        <text id="Hire_me" data-name="Hire me" transform="translate(0 21)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Hire me</tspan></text>
+      </g>
+    </g>
+    <path id="github" d="M18,0a17.609,17.609,0,0,1,9.035,2.414,17.917,17.917,0,0,1,6.551,6.551A17.609,17.609,0,0,1,36,18a17.494,17.494,0,0,1-3.434,10.582,17.635,17.635,0,0,1-8.871,6.5,1.051,1.051,0,0,1-.938-.164.916.916,0,0,1-.305-.7q0-.07.012-1.793t.012-3.152a4.174,4.174,0,0,0-1.219-3.328,16.092,16.092,0,0,0,2.4-.422,9.568,9.568,0,0,0,2.2-.914,6.541,6.541,0,0,0,1.9-1.559A7.271,7.271,0,0,0,29,20.59a11.821,11.821,0,0,0,.482-3.527,6.942,6.942,0,0,0-1.852-4.828,6.24,6.24,0,0,0-.188-4.781,3.068,3.068,0,0,0-1.9.258A12.661,12.661,0,0,0,23.39,8.743l-.891.563a16.93,16.93,0,0,0-9,0q-.375-.258-1-.633a14.1,14.1,0,0,0-1.956-.9,3.224,3.224,0,0,0-1.992-.317,6.24,6.24,0,0,0-.188,4.781,6.942,6.942,0,0,0-1.852,4.828A11.715,11.715,0,0,0,7,20.578a7.508,7.508,0,0,0,1.232,2.461,6.352,6.352,0,0,0,1.887,1.57,9.52,9.52,0,0,0,2.2.914,16.155,16.155,0,0,0,2.4.422,3.958,3.958,0,0,0-1.148,2.414,4.683,4.683,0,0,1-1.055.352,6.552,6.552,0,0,1-1.336.117,2.772,2.772,0,0,1-1.535-.5,4.12,4.12,0,0,1-1.3-1.465A3.778,3.778,0,0,0,7.207,25.64a3.432,3.432,0,0,0-1.16-.563l-.469-.07a1.529,1.529,0,0,0-.68.1q-.188.1-.117.27a1.291,1.291,0,0,0,.211.328,1.725,1.725,0,0,0,.3.281l.164.117A2.823,2.823,0,0,1,6.481,27a5.876,5.876,0,0,1,.738,1.195l.234.539a2.97,2.97,0,0,0,1.031,1.441,3.654,3.654,0,0,0,1.57.7,9.912,9.912,0,0,0,1.629.164,6.983,6.983,0,0,0,1.3-.082l.539-.094q0,.891.012,2.074t.012,1.277a.916.916,0,0,1-.305.7,1.051,1.051,0,0,1-.938.164,17.629,17.629,0,0,1-8.871-6.5A17.493,17.493,0,0,1,0,18,17.609,17.609,0,0,1,2.414,8.965,17.917,17.917,0,0,1,8.965,2.414,17.609,17.609,0,0,1,18,0ZM6.82,25.852q.07-.164-.164-.281-.234-.07-.3.047-.07.164.164.281Q6.726,26.04,6.82,25.852Zm.727.8q.164-.117-.047-.375-.234-.211-.375-.07-.164.117.047.375Q7.406,26.813,7.547,26.649Zm.7,1.055q.211-.164,0-.445-.188-.3-.4-.141-.211.117,0,.422T8.25,27.7Zm.984.984q.188-.188-.094-.445-.281-.281-.469-.07-.211.188.094.445Q9.046,28.9,9.234,28.688Zm1.336.586q.07-.258-.305-.375-.352-.094-.445.164t.305.352q.352.141.445-.141Zm1.477.117q0-.3-.4-.258-.375,0-.375.258,0,.3.4.258Q12.047,29.649,12.047,29.391Zm1.359-.234q-.047-.258-.422-.211-.375.07-.328.352t.422.188q.375-.094.328-.328Z" transform="translate(1389 53)"/>
+    <path id="linkedin-rect" d="M7.058.009A7.073,7.073,0,0,0,.007,7.061V28.943a7.072,7.072,0,0,0,7.052,7.05H28.941a7.071,7.071,0,0,0,7.05-7.05V7.061A7.072,7.072,0,0,0,28.941.009ZM8.832,5.947A2.833,2.833,0,1,1,8.8,11.6H8.761a2.832,2.832,0,1,1,.071-5.649Zm16.023,7.5c3.576,0,6.256,2.337,6.256,7.36v9.376H25.677V21.435c0-2.2-.786-3.7-2.753-3.7a2.976,2.976,0,0,0-2.789,1.987,3.711,3.711,0,0,0-.179,1.326v9.132H14.521s.071-14.818,0-16.352h5.435v2.316a5.4,5.4,0,0,1,4.9-2.7Zm-18.776.385h5.434V30.182H6.079V13.831Z" transform="translate(1474.993 52.991)"/>
+    <path id="gmail" d="M36,6.75v22.5a2.21,2.21,0,0,1-2.25,2.25H31.5V11.08L18,20.774,4.5,11.08V31.5H2.25A2.209,2.209,0,0,1,0,29.25V6.75A2.21,2.21,0,0,1,2.25,4.5H3L18,15.375,33,4.5h.75A2.21,2.21,0,0,1,36,6.75Z" transform="translate(1561 50.5)"/>
+    <text id="Beautifully_Crafted_Software_Experiences_" data-name="Beautifully Crafted Software Experiences " transform="translate(240 260)" fill="#fff" font-size="70" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="74">Beautifully </tspan><tspan x="0" y="156">Crafted Software </tspan><tspan x="0" y="238">Experiences </tspan></text>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="288.5" cy="288.5" r="288.5" transform="translate(58 847)" fill="#ffe0f3"/>
+    <text id="Coffee_Religion_App" data-name="Coffee Religion App" transform="translate(240 1068)" font-size="70" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="74">Coffee Religion App</tspan></text>
+    <text id="Coffee_Religion_App-2" data-name="Coffee Religion App" transform="translate(240 1035)" fill="#6e07ff" font-size="30" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="32">Coffee Religion App</tspan></text>
+    <text id="Meet_Tenzing_Sherpa" data-name="Meet Tenzing Sherpa" transform="translate(240 540)" fill="#ff64cb" font-size="30" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="32">Meet Tenzing Sherpa</tspan></text>
+    <g id="Slider" transform="translate(0 -0.214)">
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(240 632.214)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="6">
+        <rect width="44" height="79" rx="22" stroke="none"/>
+        <rect x="3" y="3" width="38" height="73" rx="19" fill="none"/>
+      </g>
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(249 643.214)" fill="#fff" stroke="#707070" stroke-width="1">
+        <ellipse cx="13" cy="14.5" rx="13" ry="14.5" stroke="none"/>
+        <ellipse cx="13" cy="14.5" rx="12.5" ry="14" fill="none"/>
+      </g>
+    </g>
+    <g id="Hero_shapes" data-name="Hero shapes" transform="translate(0 21)">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="122" height="122" rx="24" transform="translate(1140 199)" fill="#6e07ff"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="122" height="122" rx="24" transform="translate(1018 321)" fill="#fff"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="122" height="122" rx="24" transform="translate(1263 321)" fill="#c29af8"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="122" height="122" rx="24" transform="translate(1140 446)" fill="#6706ee"/>
+      <path id="Path_2" data-name="Path 2" d="M24,0H98a24,24,0,0,1,24,24V98a24,24,0,0,1-24,24H24A24,24,0,0,1,0,98V24A24,24,0,0,1,24,0Z" transform="translate(903 443)" fill="#a15dfd"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="122" height="122" rx="24" transform="translate(1018 568)" fill="#fff"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="61" cy="61" r="61" transform="translate(1140 321)" fill="#f062cb"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="61" cy="61" r="61" transform="translate(1018 446)" fill="#63d4ff"/>
+    </g>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum" transform="translate(240 1232)" font-size="30" font-family="Poppins-Regular, Poppins"><tspan x="0" y="32">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="0" y="92">sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="152">tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="212">aliquyam erat, sed diam voluptua. At vero eos et </tspan><tspan x="0" y="272">accusam et justo duo dolores et ea rebum</tspan></text>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(0 1621)" fill="#f05ecd" stroke="#707070" stroke-width="1">
+      <rect width="1920" height="747" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1919" height="746" fill="none"/>
+    </g>
+    <g id="Group_5" data-name="Group 5">
+      <g id="Group_4" data-name="Group 4" transform="translate(22)">
+        <rect id="Rectangle_11" data-name="Rectangle 11" width="442" height="650" rx="65" transform="translate(240 1813)" fill="#fff"/>
+      </g>
+      <path id="arrow-back-fill" d="M75.1,35.145H20.466L37.188,15.059a4.613,4.613,0,0,0-7.095-5.9L7.06,36.8a5.483,5.483,0,0,0-.415.691.584.584,0,0,1-.322.6,4.426,4.426,0,0,0,0,3.317.584.584,0,0,0,.322.6,5.482,5.482,0,0,0,.415.691L30.094,70.342a4.613,4.613,0,1,0,7.095-5.9L20.466,44.359H75.1a4.607,4.607,0,1,0,0-9.214Z" transform="translate(418 1955.002)" fill="#6e19ff"/>
+      <text id="Software_engineering" data-name="Software engineering" transform="translate(328 2104)" font-size="26" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Software engineering</tspan></text>
+      <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(301 2163)" clip-path="url(#clip-path)">
+        <g transform="translate(-301 -2163)">
+          <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing 
+elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, sed diam" transform="translate(301 2163)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="15.302" y="13">Lorem ipsum dolor sit amet, consetetur sadipscing </tspan><tspan x="18.08" y="43">elitr, sed diam nonumy eirmod tempor invidunt ut </tspan><tspan x="20.558" y="73">labore et dolore magna aliquyam erat, sed diam</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_5-2" data-name="Group 5" transform="translate(462)">
+      <g id="Group_4-2" data-name="Group 4" transform="translate(22)">
+        <rect id="Rectangle_11-2" data-name="Rectangle 11" width="442" height="650" rx="65" transform="translate(240 1813)" fill="#fff"/>
+      </g>
+      <path id="arrow-back-fill-2" data-name="arrow-back-fill" d="M75.1,35.145H20.466L37.188,15.059a4.613,4.613,0,0,0-7.095-5.9L7.06,36.8a5.483,5.483,0,0,0-.415.691.584.584,0,0,1-.322.6,4.426,4.426,0,0,0,0,3.317.584.584,0,0,0,.322.6,5.482,5.482,0,0,0,.415.691L30.094,70.342a4.613,4.613,0,1,0,7.095-5.9L20.466,44.359H75.1a4.607,4.607,0,1,0,0-9.214Z" transform="translate(418 1955.002)" fill="#6e19ff"/>
+      <text id="Software_engineering-2" data-name="Software engineering" transform="translate(328 2104)" font-size="26" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Software engineering</tspan></text>
+      <g id="Repeat_Grid_1-2" data-name="Repeat Grid 1" transform="translate(301 2163)" clip-path="url(#clip-path)">
+        <g transform="translate(-301 -2163)">
+          <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam-2" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing 
+elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, sed diam" transform="translate(301 2163)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="15.302" y="13">Lorem ipsum dolor sit amet, consetetur sadipscing </tspan><tspan x="18.08" y="43">elitr, sed diam nonumy eirmod tempor invidunt ut </tspan><tspan x="20.558" y="73">labore et dolore magna aliquyam erat, sed diam</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_5-3" data-name="Group 5" transform="translate(924)">
+      <g id="Group_4-3" data-name="Group 4" transform="translate(22)">
+        <rect id="Rectangle_11-3" data-name="Rectangle 11" width="442" height="650" rx="65" transform="translate(240 1813)" fill="#fff"/>
+      </g>
+      <path id="arrow-back-fill-3" data-name="arrow-back-fill" d="M75.1,35.145H20.466L37.188,15.059a4.613,4.613,0,0,0-7.095-5.9L7.06,36.8a5.483,5.483,0,0,0-.415.691.584.584,0,0,1-.322.6,4.426,4.426,0,0,0,0,3.317.584.584,0,0,0,.322.6,5.482,5.482,0,0,0,.415.691L30.094,70.342a4.613,4.613,0,1,0,7.095-5.9L20.466,44.359H75.1a4.607,4.607,0,1,0,0-9.214Z" transform="translate(418 1955.002)" fill="#6e19ff"/>
+      <text id="Software_engineering-3" data-name="Software engineering" transform="translate(328 2104)" font-size="26" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Software engineering</tspan></text>
+      <g id="Repeat_Grid_1-3" data-name="Repeat Grid 1" transform="translate(301 2163)" clip-path="url(#clip-path)">
+        <g transform="translate(-301 -2163)">
+          <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam-3" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing 
+elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, sed diam" transform="translate(301 2163)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="15.302" y="13">Lorem ipsum dolor sit amet, consetetur sadipscing </tspan><tspan x="18.08" y="43">elitr, sed diam nonumy eirmod tempor invidunt ut </tspan><tspan x="20.558" y="73">labore et dolore magna aliquyam erat, sed diam</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(0 -62)">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="1022" height="560" rx="60" transform="translate(1041 2578)"/>
+      <text id="BLAHVLAHVLAH.com" transform="translate(398 2780)" font-size="30" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-158.055" y="0">BLAHVLAHVLAH.com</tspan></text>
+      <text id="Blah_app" data-name="Blah app" transform="translate(285 2741)" fill="#6e19ff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-45.15" y="0">Blah app</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea." data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea." transform="translate(240 2821)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="21">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="0" y="51">sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="81">tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="111">aliquyam erat, sed diam voluptua. At vero eos </tspan><tspan x="0" y="141">et accusam et justo duo dolores et ea rebum. </tspan><tspan x="0" y="171">Stet clita kasd gubergren, no sea.</tspan></text>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(438 571)">
+      <rect id="Rectangle_12-2" data-name="Rectangle 12" width="1022" height="560" rx="53" transform="translate(-669 2592)"/>
+      <text id="BLAHVLAHVLAH.com-2" data-name="BLAHVLAHVLAH.com" transform="translate(907 2781)" font-size="30" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-158.055" y="0">BLAHVLAHVLAH.com</tspan></text>
+      <text id="Blah_app-2" data-name="Blah app" transform="translate(794 2742)" fill="#6e19ff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-45.15" y="0">Blah app</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea.-2" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea." transform="translate(749 2822)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="21">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="0" y="51">sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="81">tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="111">aliquyam erat, sed diam voluptua. At vero eos </tspan><tspan x="0" y="141">et accusam et justo duo dolores et ea rebum. </tspan><tspan x="0" y="171">Stet clita kasd gubergren, no sea.</tspan></text>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(0 1224)">
+      <rect id="Rectangle_12-3" data-name="Rectangle 12" width="1022" height="560" rx="71" transform="translate(1049 2586)"/>
+      <text id="BLAHVLAHVLAH.com-3" data-name="BLAHVLAHVLAH.com" transform="translate(384 2775)" font-size="30" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-158.055" y="0">BLAHVLAHVLAH.com</tspan></text>
+      <text id="Blah_app-3" data-name="Blah app" transform="translate(271 2736)" fill="#6e19ff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-45.15" y="0">Blah app</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea.-3" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea." transform="translate(226 2816)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="21">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="0" y="51">sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="81">tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="111">aliquyam erat, sed diam voluptua. At vero eos </tspan><tspan x="0" y="141">et accusam et justo duo dolores et ea rebum. </tspan><tspan x="0" y="171">Stet clita kasd gubergren, no sea.</tspan></text>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(0 113)">
+      <path id="Path_3" data-name="Path 3" d="M0,0H1920V250.667H0Z" transform="translate(0 4743)" fill="#6700ee"/>
+      <g id="Component_1_5" data-name="Component 1 – 5" transform="translate(226 4783)">
+        <text id="Tenzing_Sherpa-2" data-name="Tenzing Sherpa" transform="translate(0 27)" fill="#64e0ff" font-size="26" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Tenzing Sherpa</tspan></text>
+      </g>
+      <g id="Group_9" data-name="Group 9" transform="translate(481.525 4789)">
+        <g id="Component_1_6" data-name="Component 1 – 6" transform="translate(0.475)">
+          <text id="My_work-2" data-name="My work" transform="translate(0 21)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">My work</tspan></text>
+        </g>
+        <g id="Component_1_7" data-name="Component 1 – 7" transform="translate(141.475)">
+          <text id="My_Skills_2" data-name="My Skills " transform="translate(0 21)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">My Skills </tspan></text>
+        </g>
+        <g id="Component_1_8" data-name="Component 1 – 8" transform="translate(287.475)">
+          <text id="Hire_me-2" data-name="Hire me" transform="translate(0 21)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Hire me</tspan></text>
+        </g>
+      </g>
+      <g id="Group_10" data-name="Group 10" transform="translate(616 4425)">
+        <rect id="Rectangle_4-2" data-name="Rectangle 4" width="122" height="122" rx="24" transform="translate(1140 199)" fill="#6e07ff"/>
+        <rect id="Rectangle_5-2" data-name="Rectangle 5" width="122" height="122" rx="24" transform="translate(1018 321)" fill="#fff"/>
+        <rect id="Rectangle_6-2" data-name="Rectangle 6" width="122" height="122" rx="24" transform="translate(1263 321)" fill="#c29af8"/>
+        <rect id="Rectangle_7-2" data-name="Rectangle 7" width="122" height="122" rx="24" transform="translate(1140 446)" fill="#6706ee"/>
+        <path id="Path_2-2" data-name="Path 2" d="M24,0H98a24,24,0,0,1,24,24V98a24,24,0,0,1-24,24H24A24,24,0,0,1,0,98V24A24,24,0,0,1,24,0Z" transform="translate(903 443)" fill="#a15dfd"/>
+        <rect id="Rectangle_9-2" data-name="Rectangle 9" width="122" height="122" rx="24" transform="translate(1018 568)" fill="#fff"/>
+        <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="61" cy="61" r="61" transform="translate(1140 321)" fill="#f062cb"/>
+        <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="61" cy="61" r="61" transform="translate(1018 446)" fill="#63d4ff"/>
+      </g>
+    </g>
+    <text id="Like_what_you_see_" data-name="Like what you see? " transform="translate(833 4672)" fill="#6e19ff" font-size="26" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-126.594" y="0" fill="#000">Like what you see?</tspan><tspan y="0" fill="#6e19ff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"> </tspan></text>
+    <text id="Hire_Me-3" data-name="Hire Me" transform="translate(1051 4672)" fill="#f062cb" font-size="26" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-49.608" y="0">Hire Me</tspan></text>
+  </g>
+</svg>

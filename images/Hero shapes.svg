@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="482" height="491" viewBox="0 0 482 491">
+  <g id="Hero_shapes" data-name="Hero shapes" transform="translate(-903 -199)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="122" height="122" rx="24" transform="translate(1140 199)" fill="#6e07ff"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="122" height="122" rx="24" transform="translate(1018 321)" fill="#fff"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="122" height="122" rx="24" transform="translate(1263 321)" fill="#c29af8"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="122" height="122" rx="24" transform="translate(1140 446)" fill="#6706ee"/>
+    <path id="Path_2" data-name="Path 2" d="M24,0H98a24,24,0,0,1,24,24V98a24,24,0,0,1-24,24H24A24,24,0,0,1,0,98V24A24,24,0,0,1,24,0Z" transform="translate(903 443)" fill="#a15dfd"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="122" height="122" rx="24" transform="translate(1018 568)" fill="#fff"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="61" cy="61" r="61" transform="translate(1140 321)" fill="#f062cb"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="61" cy="61" r="61" transform="translate(1018 446)" fill="#63d4ff"/>
+  </g>
+</svg>

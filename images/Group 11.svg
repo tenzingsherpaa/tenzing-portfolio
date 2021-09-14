@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2001" height="491" viewBox="0 0 2001 491">
+  <g id="Group_11" data-name="Group 11" transform="translate(0 -4624)">
+    <path id="Path_3" data-name="Path 3" d="M0,0H1920V250.667H0Z" transform="translate(0 4743)" fill="#6700ee"/>
+    <g id="Component_1_5" data-name="Component 1 – 5" transform="translate(226 4783)">
+      <text id="Tenzing_Sherpa" data-name="Tenzing Sherpa" transform="translate(0 27)" fill="#64e0ff" font-size="26" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Tenzing Sherpa</tspan></text>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(481.525 4789)">
+      <g id="Component_1_6" data-name="Component 1 – 6" transform="translate(0.475)">
+        <text id="My_work" data-name="My work" transform="translate(0 21)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">My work</tspan></text>
+      </g>
+      <g id="Component_1_7" data-name="Component 1 – 7" transform="translate(141.475)">
+        <text id="My_Skills_" data-name="My Skills " transform="translate(0 21)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">My Skills </tspan></text>
+      </g>
+      <g id="Component_1_8" data-name="Component 1 – 8" transform="translate(287.475)">
+        <text id="Hire_me" data-name="Hire me" transform="translate(0 21)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Hire me</tspan></text>
+      </g>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(616 4425)">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="122" height="122" rx="24" transform="translate(1140 199)" fill="#6e07ff"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="122" height="122" rx="24" transform="translate(1018 321)" fill="#fff"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="122" height="122" rx="24" transform="translate(1263 321)" fill="#c29af8"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="122" height="122" rx="24" transform="translate(1140 446)" fill="#6706ee"/>
+      <path id="Path_2" data-name="Path 2" d="M24,0H98a24,24,0,0,1,24,24V98a24,24,0,0,1-24,24H24A24,24,0,0,1,0,98V24A24,24,0,0,1,24,0Z" transform="translate(903 443)" fill="#a15dfd"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="122" height="122" rx="24" transform="translate(1018 568)" fill="#fff"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="61" cy="61" r="61" transform="translate(1140 321)" fill="#f062cb"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="61" cy="61" r="61" transform="translate(1018 446)" fill="#63d4ff"/>
+    </g>
+  </g>
+</svg>
